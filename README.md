@@ -15,4 +15,4 @@ Ran at Langara College and Emily Carr University of Art + Design
     * download from https://developer.android.com/studio/index.html
     * update as per https://developer.android.com/studio/intro/update.html
   * IT tests whether student accounts are able to access and run an app, and create an AVD
-    * download from 
+    * navigate to the */Tests* folder and follow instructions
